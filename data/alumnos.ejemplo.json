@@ -1,0 +1,14 @@
+{
+    "Clase": {
+        "alumno": "Rodolfo",
+        "temas_vistos": [
+            "metodos de string",
+            "condicionales if/else",
+            "ciclos for y while",
+            "lectura de archivos de texto"
+        ],
+        "tema_siguiente": "funciones",
+        "nivel": "básico",
+        "intereses": "análisis de datos"
+    }
+}

@@ -1,0 +1,47 @@
+# ---------------------------------------------------
+# 1. Entornos Virtuales y Python
+# ---------------------------------------------------
+venv/
+env/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ---------------------------------------------------
+# 2. Credenciales y Variables de Entorno
+# ---------------------------------------------------
+.env
+config/credentials.json
+config/token.json
+.streamlit/secrets.toml
+
+# ---------------------------------------------------
+# 3. Datos Locales y Archivos Generados
+# ---------------------------------------------------
+data/alumnos.json
+data/generados/*
+# Se permiten las plantillas de ejemplo
+!data/alumnos.ejemplo.json
+!data/generados/.gitkeep
+
+# ---------------------------------------------------
+# 4. Archivos del Sistema Operativo
+# ---------------------------------------------------
+.DS_Store
+Thumbs.db
