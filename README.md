@@ -27,7 +27,7 @@ Tiene la posibilidad de conectarse y sincronizarse con el calendario de Google a
 
 * **CPU:** Intel Core i7-118000H @ 2.3GHz con 8 cores
 * **Memoria RAM:** 32 GB SODIMM a velocidad 3200MT/s
-* **GPU:** NVIDIA GeForcwe RTX 3050 Laptop
+* **GPU:** NVIDIA GeForce RTX 3050 Laptop
 
 ---
 
