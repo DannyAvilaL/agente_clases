@@ -17,11 +17,17 @@ Tiene la posibilidad de conectarse y sincronizarse con el calendario de Google a
 ## 🛠️ Tecnologías Utilizadas
 
 * **Lenguaje:** Python 3
-* **LLM Local:** Ollama modelo Phi-3
+* **LLM Local:** Ollama modelo Phi-3 (2 GB)
 * **Base de Datos:** PostgreSQL (para datasets) y JSON (para progreso de alumnos)
 * **Calendario:** Radicale (Servidor CalDAV local) e iCalendar
 * **Interfaz:** Streamlit
 * **Librerías Clave:** `pandas`, `sqlalchemy`, `caldav`, `google-api-python-client`, `requests`
+
+## Hardware Utilizado
+
+* **CPU:** Intel Core i7-118000H @ 2.3GHz con 8 cores
+* **Memoria RAM:** 32 GB SODIMM a velocidad 3200MT/s
+* **GPU:** NVIDIA GeForcwe RTX 3050 Laptop
 
 ---
 
